@@ -1,6 +1,5 @@
-
-
 from selenium import webdriver
+
 import math
 import time
 
@@ -15,6 +14,7 @@ try:
     def calc(x):
         return str(math.log(abs(12 * math.sin(int(x)))))
 
+    
     x_in_text = browser.find_element_by_id("input_value")
     x_value = x_in_text.text
 
