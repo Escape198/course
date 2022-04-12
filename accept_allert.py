@@ -1,5 +1,3 @@
-
-
 from selenium import webdriver
 import math
 import time
@@ -41,5 +39,3 @@ try:
 finally:
     time.sleep(5)
     browser.quit()
-
-
