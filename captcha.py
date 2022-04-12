@@ -1,6 +1,5 @@
-
-
 from selenium import webdriver
+
 import math
 import time
 
