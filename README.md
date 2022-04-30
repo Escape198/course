@@ -1,1 +1,1 @@
-# added readme
+# Stepik course assignments
