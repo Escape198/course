@@ -1,1 +1,1 @@
-# Stepik course assignments
+# Stepik course assignments 🍪
